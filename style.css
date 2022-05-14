@@ -1,36 +1,37 @@
+
 body{
    background-color:  #ffffff;
 
 }
-section{
+ section{
  border: 15px solid;
  background-position: 200px;
  background-color: #ffffff;
  border-color:#f1eaea;
  margin: 20px;
  border-width: 30px;
-}
+} 
 
-ul  {
+ ul  {
     list-style-type: none;
     margin-left: 35%; 
     margin-top: 12%;  
  }
  ul span{
     color: rgb(54, 127, 133);
- }
- a{
+ } 
+  a{
    text-decoration: none;
    padding: 22px;
    font-size: medium;
    color: rgb(41, 11, 58);
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
-   }
+   } 
 .image{
    margin-top: -7%;
    margin-left: 15%;
 
-}
+} 
  .icon{
    margin-top: 3%;
    
@@ -54,7 +55,7 @@ ul  {
    box-shadow: 20px 20px 20px  #e9e9eb;
 
 
-}  
+}   
 .word h1{
    margin-left: 8%;
    margin-top: -4.5%;
@@ -69,8 +70,8 @@ ul  {
    display: flex;
    margin-left: 35%;
    margin-top: -40%;
-}
-.pic2{
+} 
+ .pic2{
    margin-left: 57%;
    margin-top: -25%;
 
@@ -90,12 +91,12 @@ ul  {
     background-color: #5184f9;
    
     
-    } 
+    }  
     
 .Digital{
    margin-left: 15%;
    margin-top: 18%;
-}
+} 
 .Digital h1{
    font-size: 38px;
    color: rgb(61, 12, 12);
@@ -103,7 +104,7 @@ ul  {
 }
 .Digital p{
    color: #b1b1b6;
-}
+} 
 
 .button2 h2{
    border: solid;
@@ -133,9 +134,9 @@ ul  {
    margin-top: -5.5%;
    background-color: rgb(201, 209, 216);
    box-shadow: 20px 20px 20px #e3e1e2;
-}
+} 
 
-.button3 span{
+ .button3 span{
   color:#381407 ;
 }
 .container1{
@@ -151,8 +152,8 @@ ul  {
 
   
 
-}
-.num1{
+} 
+ .num1{
 margin-left: -1%;
 background-color: #ffffff;
 width: 450px;
@@ -165,9 +166,8 @@ margin-top: -2.5%;
    font-size: 40px;
    color: rgb(77, 23, 23);
    
-}
-
-.num2{
+} 
+ .num2{
 margin-left: 0.5%;
 background-color: #ffffff;
 text-align: center;
@@ -217,7 +217,7 @@ margin-top: 5%;
 
 }
 /* ============================= */
-.Help h3{
+ .Help h3{
    margin-left: 44%;
    font-size: 15px;
    padding-top: 5%;
@@ -240,8 +240,8 @@ margin-top: 5%;
   text-align: center;
   border: none;
   border-radius: 60px;
-  padding-top: -25%;
-  width: 54px;
+  padding-top: -27%;
+  width: 56px;
   height: 60px;
   background-color: #feba41;
 }
@@ -499,4 +499,4 @@ color: #86868c;
   margin-top: -3%;
   background-color: #43a091;
   
-  } 
+  }  
